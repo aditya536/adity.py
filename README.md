@@ -13,7 +13,6 @@ print(type(b))
 print(b)
 print(type(c))
 print(c)
-d = "\"hsfdg\""
 print("enter the first number")
 m1 = input()
 print("enter the second number")
